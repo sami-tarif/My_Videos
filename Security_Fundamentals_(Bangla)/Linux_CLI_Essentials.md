@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 ## video 2:
 
 [![Linux essentials - daily basic commands for CLI explained in Bangla | Cybersecurity | Brainsec](https://thumbs.video-to-markdown.com/7446bfb7.jpg)](https://youtu.be/rJMPrsgm3hM)
@@ -11,9 +15,17 @@
 
 
 
+
+
+
+
 ## video 3:
 
 [![Linux essentials - Service & Package management explained in Bangla | Cybersecurity | Brainsec](https://thumbs.video-to-markdown.com/d31526c7.jpg)](https://youtu.be/pvqTwpXWVBU)
+
+
+
+
 
 
 
