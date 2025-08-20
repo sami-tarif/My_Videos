@@ -1,5 +1,5 @@
 ## video 1:
-here you can learn 
+
 
 [![Linux essentials - Filesystem Hierarchy Standard explained in Bangla | Cybersecurity | Brainsec](https://thumbs.video-to-markdown.com/fcc1bcc3.jpg)](https://youtu.be/31ngIkQVebM)
 
